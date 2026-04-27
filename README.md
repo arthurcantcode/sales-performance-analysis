@@ -1,4 +1,4 @@
-*Note that this dummy data was downloaded the data via Kaggle.com (https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download)*
+*Note that this dummy data was downloaded via Kaggle.com (https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download)*
 
 📈 Sales Performance Analysis
 
